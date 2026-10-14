@@ -30,6 +30,6 @@
 ใช้ URL `http://localhost:8081` สาเหตุที่ใช้ `http://promo:3000` ไม่ได้ เพราะการคลิกลิงก์เกิดขึ้นที่ฝั่ง Client (เว็บเบราว์เซอร์ของ user บน Host) ซึ่งอยู่นอก Docker Network จึงไม่รู้จักชื่อ DNS ภายในอย่าง `promo`
 
 ## ภาพหน้าจอ
-![Menu](screenshots/00 menu.png)
-![Menu](screenshots/01 menu.png)
-![Promo](screenshots/02 promo.png)
+
+![Menu](screenshots/01-menu.png)
+![Promo](screenshots/02-promo.png)
